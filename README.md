@@ -11,7 +11,6 @@
 ## 📊 Estatísticas do GitHub  
 
 ![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4ram&show_icons=true&theme=tokyonight)   ![GitHub Streak](https://streak-stats.demolab.com?user=T4ram&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
-                                            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4ram&layout=compact&theme=tokyonight)
 
 ---
 
