@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Israel Victor  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rubens Lara (conclusão prevista: Dez/2026).  
-💻 Estudando **.NET e C#**, com maior interesse em **Back-End Development**.  
-📚 Experiência também com **Java, JavaScript, C, C++ e SQL**.  
-☁️ Conhecimentos em **Git, Docker, Azure e AWS**.  
+💻 Estudando **Java**, com maior interesse em **Full Stack Development**.  
+📚 Experiência também com **.NET, JavaScript, C, C++ e SQL**.  
+☁️ Conhecimentos em **MVC, Dsign Patterns, Docker, DevOps, Clean Code, etc...**
 🌎 Inglês avançado | Francês básico.  
 
 ---
