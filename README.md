@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Rubens Lara (conclusão prevista: Dez/2026).  
 💻 Estudando **Java**, com maior interesse em **Full Stack Development**.  
-📚 Experiência também com **.NET, JavaScript, C, C++ e SQL**.  
+📚 Experiência também com **.NET, JavaScript, C++ e MySQL**.  
 ☁️ Conhecimentos em **MVC, Dsign Patterns, Docker, DevOps, Clean Code, etc...**
 🌎 Inglês avançado | Francês básico.  
 
