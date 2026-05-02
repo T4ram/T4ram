@@ -30,7 +30,7 @@
 
 ## 🎯 Objetivo  
 Ainda explorando meu caminho entre **front-end e back-end**, mas com maior afinidade para **desenvolvimento back-end**.  
-Busco sempre aprender novas tecnologias e colaborar em projetos que tragam impacto positivo.  
+Busco sempre novos desafios, sou obcecado por aprendizado e quero crescer como profissional.  
 
 ---
 
